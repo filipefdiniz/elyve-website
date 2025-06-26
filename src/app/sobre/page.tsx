@@ -16,7 +16,7 @@ const teamMembers = [
   { name: "Yuri", role: "UI/UX e Desenvolvedor", image: Yuri },
   { name: "Pedro", role: "QA e Desenvolvedor", image: Pedro },
   { name: "Vinicius", role: "Desenvolvedor", image: "/team-vinicius.png" },
-  { name: "Arthur", role: "Desenvolvedor", image: "/team-arthur.png" },
+  { name: "Arthur", role: "Desenvolvedor", image: Artur },
 ];
 
 export default function SobrePage() {
